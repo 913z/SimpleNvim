@@ -1,3 +1,0 @@
-return {
-    "whatyouhide/vim-gotham"
-}
